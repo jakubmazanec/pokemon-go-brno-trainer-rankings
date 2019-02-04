@@ -12,38 +12,37 @@ Pokémon GO Brno Trainer Rankings
 ## Latest rankings
 
 ```
-ouricoman      1687.629
-Radimex        1613.570
-MartinSnehurva 1586.606
-LeftySaves     1566.559
-MAZZI          1540.434
+ouricoman      1687.486
+Radimex        1613.563
+MartinSnehurva 1586.498
+LeftySaves     1566.554
+MAZZI          1540.376
 Kaul           1540.228
-LovecPablo     1537.606
-InzenyrZababa  1530.981
-Fluffy0383     1526.523
-Deidy0440      1519.777
+LovecPablo     1536.493
+InzenyrZababa  1529.783
+Fluffy0383     1526.513
 Miglands       1518.899
-IkarCZ         1518.548
-JackySkill     1506.206
+Deidy0440      1518.608
+IkarCZ         1518.490
+JackySkill     1506.145
 Standay        1501.470
 0CEANlS        1501.279
 veol1cz        1499.945
-Perna182       1499.183
 matesZIDL      1498.654
-Cavalier14     1477.347
-27SanniN28     1470.668
+Cavalier14     1476.131
+perna182       1475.065
+27SanniN28     1470.614
 Michedren      1469.393
-22vasi         1468.344
-perna182       1468.065
-Romana1989     1451.870
+22vasi         1468.286
+Romana1989     1451.868
 NUMERIK        1451.635
-Jakub984       1449.297
+Jakub984       1449.239
 ArrenayOmega   1438.936
 TheConner      1436.003
 FotrLotr       1434.601
-Mirus77        1433.032
-MadVaso        1431.549
-Camomilla12    1425.164
+Mirus77        1431.874
+MadVaso        1430.326
+Camomilla12    1425.048
 ```
 
 
